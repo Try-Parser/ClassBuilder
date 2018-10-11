@@ -1,8 +1,9 @@
 # ClassBuilder
 
-### Usage
+## Usage
 
 ````java
+
 Class Foo {
   private String bar;
   private Int size;
@@ -17,3 +18,5 @@ Foo foo = CBuilder.builder
           .build();
 
 ````
+
+## [Repo](https://mvnrepository.com/artifact/io.github.try-parser/ClassBuilder)
