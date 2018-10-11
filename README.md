@@ -2,7 +2,7 @@
 
 ## Usage
 
-````java
+````Java
 
 Class Foo {
   private String bar;
