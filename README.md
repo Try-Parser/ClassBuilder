@@ -19,4 +19,4 @@ Foo foo = CBuilder.builder
 
 ````
 
-## [Repo](https://mvnrepository.com/artifact/io.github.try-parser/ClassBuilder)
+## [Repository https://mvnrepository.com/artifact/io.github.try-parser/ClassBuilder](https://mvnrepository.com/artifact/io.github.try-parser/ClassBuilder)
